@@ -9,7 +9,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">你好，世界</h1>
+        <h1 className="hero__title">hello world</h1>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
