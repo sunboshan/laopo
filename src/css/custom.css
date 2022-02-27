@@ -41,3 +41,8 @@
 .main-wrapper {
   display: flex;
 }
+
+.footer {
+  padding: 1rem;
+}
+}
