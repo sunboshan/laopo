@@ -43,9 +43,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'lesson1',
             position: 'left',
-            label: 'Tutorial',
+            label: '课程',
           },
           {
             href: 'https://github.com/sunboshan/laopo',
