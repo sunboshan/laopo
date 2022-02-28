@@ -24,6 +24,7 @@ const sidebars = {
       items: [
         'lesson1-overview',
         'lesson2-vscode',
+        'lesson3-html',
       ],
     },
     {
