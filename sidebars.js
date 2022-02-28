@@ -26,6 +26,7 @@ const sidebars = {
         'lesson2-vscode',
         'lesson3-html',
         'lesson4-css',
+        'lesson5-javascript',
       ],
     },
     {
