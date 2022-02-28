@@ -29,6 +29,7 @@ const sidebars = {
         'lesson5-javascript',
         'lesson6-react',
         'lesson7-jsx',
+        'lesson8-function',
       ],
     },
     {
