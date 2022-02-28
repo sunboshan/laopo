@@ -21,7 +21,10 @@ const sidebars = {
     {
       type: 'category',
       label: '课程',
-      items: ['lesson1-overview'],
+      items: [
+        'lesson1-overview',
+        'lesson2-vscode',
+      ],
     },
     {
       type: 'category',
