@@ -44,7 +44,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'lesson1',
+            docId: 'lesson1-overview',
             position: 'left',
             label: '课程',
           },
